@@ -1,0 +1,114 @@
+/* .bd h1{
+    
+    
+    text-align: center;
+    
+    background-image: url(./win.png);
+    
+    height: 40vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    padding-top: 70px;
+    font-size: 80px;
+    filter: blur(0.7px);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    word-spacing: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    background-attachment: fixed;
+  background-size: 100% 100%;
+  
+  
+    
+} */
+.bd img{
+    height: 40vh;
+    width: 100%;
+   
+    filter: blur(1px);
+}
+
+.bd h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(254, 255, 208, 0.678);
+    position: absolute;
+    right: 32%;
+    top: 30%;
+}
+
+
+#acc{
+    width: 335px;
+    height: 350px;
+    padding: 20%;
+  transition: 1s;
+   
+}
+#acc:hover{
+    /* filter: drop-shadow(10px 10px 20px rgb(102, 101, 101)); */
+transform: rotateY(180deg);
+}
+.acalll{
+display: flex;
+text-align: center;
+justify-content: center;
+}
+.acalll h5{
+    color: rgb(40, 76, 85);
+    font-weight:bold;
+    font-size: 15px;
+}
+.acalll p{
+    color: rgb(56, 2, 2);
+}
+.vie{
+    display: flex;
+    justify-content: center;
+    padding: 4%;
+    text-align: center;
+   
+
+    
+}
+
+.qqq{
+    background-image: url(./ww.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+    background-position: center;
+  /* background-attachment: fixed; */
+  background-size: 100% 100%;
+ 
+}
+
+.vie p{ 
+    color: rgb(14, 13, 13);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+.vie h3{
+    padding-top: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(59, 18, 18);
+}
+#rr{
+    height: 300px;
+    width: 90%;
+   align-self:center;
+   padding: 5%;
+  
+}
+.hq{
+    text-align: center;
+    padding-top: 6%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(51, 18, 18);
+    /* background-color: lightgray;
+    box-shadow: 10px 10px 10px 9px lightgrey; */
+   
+}

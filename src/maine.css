@@ -1,0 +1,177 @@
+.maine{
+    height: 190px;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+*{
+    padding: 0%;
+    margin: 0;
+}
+#addto{
+    height: 20px;
+    width: 20px;
+
+    padding-bottom: 5px;
+}
+
+
+.uu img{
+    height: 35vh;
+    width: 100%;
+    /* position: absolute; */
+}
+
+.uu h1{
+    position: absolute;
+    z-index: 1;
+    right: 35%;
+    top: 25%;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(248, 190, 0, 0.63);
+}
+.po img{
+    height: 600px;
+    /* background-color:lightgray; */
+    width: 900px;
+    padding: 30px 20px 30px 20px;
+    cursor: pointer;
+    transition: 0.9s;
+    padding-left: 80px;
+
+   
+   
+   
+    
+   
+}
+.po img:hover{
+    transform: scale(0.9);
+}
+
+.po{
+    display: flex;
+    /* background-color: lightgray; */
+    background-color: rgba(211, 211, 211, 0.315);
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+   
+}
+
+.po p{
+    text-align:center;
+  
+     margin-left: 50px; 
+     margin-right: 80px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: lighter;
+    color: black;
+
+   
+
+}
+.po h1{
+    text-align: center;
+    font-family: 'Broadway Shadow';
+    font-weight: bolder;
+    color: rgb(75, 32, 32)
+    
+    
+}@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Noto+Serif+TC:wght@200..900&family=Prata&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Playwrite+AU+TAS:wght@100..400&display=swap');
+
+@import url('https://fonts.cdnfonts.com/css/broadway');
+
+.manii1{
+    display: flex;
+    text-align: center;
+   justify-content: center;
+   /* background-image: url(v1.png); */
+  
+}
+
+
+
+#mani{
+    width: 280px;
+    
+    padding: 20%;
+    height: 450px;
+    text-align: center;
+    transition: 1s;
+   
+}
+#mani:hover{
+    transform: rotateY(180deg);
+    filter: drop-shadow(10px 10px 20px black);
+
+
+} .manii1 h5{
+    color: rgb(40, 76, 85);
+    font-weight:bold;
+}
+.manii1 p{
+    color: rgb(56, 2, 2);
+} .make h3{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    color: rgb(87, 29, 29);
+    font-family: 'Broadway Shadow';
+    font-weight: bold;
+   
+}
+.make p{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    font-weight: lighter;
+}
+.make{
+    background-color: rgba(211, 211, 211, 0.432);
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+#btm{
+    height: 25px;
+    width: 120px;
+    color: white;
+    background-color: rgb(66, 16, 16);
+    border: none;
+    margin-top: -20px;
+   font-weight: bold;
+   
+}
+#btm:hover{
+    color: rgb(10, 10, 10);
+    background-color: rgb(255, 238, 0);
+}
+#bt{
+    height: 25px;
+    width: 120px;
+    color: white;
+    background-color: rgb(66, 16, 16);
+    border: none;
+    margin-top: -20px;
+    
+
+    
+}
+#bt:hover{
+    color: rgb(10, 10, 10);
+    background-color: rgb(255, 0, 0);
+}
+.allbtn{
+    gap: 30px;
+}

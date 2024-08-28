@@ -1,0 +1,122 @@
+
+.get input{
+    width: 350px;
+    height: 50px;
+    outline: none;
+    border: none;
+/* text-align: center; */
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+
+} 
+#map{
+   border-top: 5px solid rgba(0, 0, 0, 0.829);
+  
+}
+
+.bee img{
+height: 35vh;
+width: 100%;
+
+    
+}
+
+.bee h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    right: 35%;
+    top: 25%;
+    position: absolute;
+    color: rgba(211, 211, 211, 0.815);
+}
+textarea{
+    width: 350px;
+    height: 50px;
+    outline: none;
+    /* text-align: center; */
+border: none;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+ textarea ::placeholder{
+    padding-top: 20px;
+    
+ }
+
+
+.get{
+   
+    margin-top: 50px;
+   
+    
+   
+    align-items: center; 
+    /* padding-left: 340px; */
+    left: 300px;
+    justify-content: center; }
+#het{
+    height: 40px;
+    width: 350px;
+    color: white;
+    background-color: brown;
+    border: none;
+}
+.get h2{
+    
+margin-bottom: 30px;
+font-weight: bolder;
+}
+
+.get ::placeholder{
+    font-weight: bolder;
+   /* right: 5%;
+   padding:10px;
+    */
+}
+.con p{
+   text-align: start;
+   font-size: 20px;
+ /* font-family: Georgia, 'Times New Roman', Times, serif; */
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-optical-sizing: auto;
+ 
+}
+.con{
+    padding-bottom: 80px;
+    padding: 30px 40px 30px 40px;
+ margin-left: 50px;
+    margin-top: 50px;
+    padding: 50px; 
+   
+   
+}
+
+
+.allget{
+    display: flex;
+    text-align: center;
+    justify-content: center; 
+background-color: lightgray;
+margin-right: 5%;
+margin-left: 5%;
+    
+   
+}#lol{
+    height: 28px;
+    width: 28px;
+    padding: 1px; 
+    margin: 10px;
+}
+.con h2{
+    text-align: center; 
+    margin-top: -50px;
+    padding-bottom: 30px;
+    font-weight: bolder;
+}
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Noto+Serif+TC:wght@200..900&family=Prata&display=swap');
+
+
+
+/* body{
+    background-color: rgb(0, 139, 139);
+} */

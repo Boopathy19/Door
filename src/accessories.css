@@ -1,0 +1,68 @@
+
+.U img{
+    height: 35vh;
+    width: 100%;
+   
+
+}
+.U h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(36, 29, 29, 0.726);
+    position: absolute;
+   right: 38%;
+   top: 25%;
+}
+#ac{
+    width: 335px;
+    height: 350px;
+    padding: 20%;
+  transition: 1s;
+   
+}
+#ac:hover{
+    /* filter: drop-shadow(10px 10px 20px rgb(102, 101, 101)); */
+transform: rotateY(180deg);
+}
+.acall{
+display: flex;
+text-align: center;
+justify-content: space-evenly;
+}
+.acall h5{
+    color: rgb(40, 76, 85);
+    font-weight:bold;
+    font-size: 15px;
+}
+.acall p{
+    color: rgb(56, 2, 2);
+}
+.hard h2{
+    text-align: center;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(0, 0, 0, 0.295);
+    padding-top: 40px;
+}
+.impo {
+    text-align: center;
+    padding-top: 50px;
+    /* margin: 20px 20px 20px 20px; */
+    background-color: lightgray;
+    height: 350px;
+    width: 100%;
+} 
+.impo h2{
+    font-size: large;
+    color: brown;
+    font-weight: bold;
+    font-size: 40px;
+   
+
+}
+.impo p{
+    text-align: center;
+    font-weight: 500;
+    margin-right: 3%;
+    margin-left: 3%;
+}
